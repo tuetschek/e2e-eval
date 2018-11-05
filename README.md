@@ -84,14 +84,14 @@ Heriot-Watt University
 To cite this data, please refer to [this paper](http://aclweb.org/anthology/W18-6539):
 ```
 @InProceedings{W18-6539,
-  author = 	"Du{\v{s}}ek, Ond{\v{r}}ej and Novikova, Jekaterina and Rieser, Verena",
-  title = 	    "Findings of the E2E NLG Challenge",
-  booktitle = 	"Proceedings of the 11th International Conference on Natural Language Generation",
-  year = 	    "2018",
-  publisher = 	"Association for Computational Linguistics",
-  pages = 	    "322--328",
-  location = 	"Tilburg University, The Netherlands",
-  url = 	    "http://aclweb.org/anthology/W18-6539"
+  author =      "Du{\v{s}}ek, Ond{\v{r}}ej and Novikova, Jekaterina and Rieser, Verena",
+  title =       "Findings of the E2E NLG Challenge",
+  booktitle =   "Proceedings of the 11th International Conference on Natural Language Generation",
+  year =        "2018",
+  publisher =   "Association for Computational Linguistics",
+  pages =       "322--328",
+  location =    "Tilburg University, The Netherlands",
+  url =         "http://aclweb.org/anthology/W18-6539"
 }
 ```
 
