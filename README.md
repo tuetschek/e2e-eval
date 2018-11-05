@@ -2,8 +2,14 @@ E2E NLG Challenge Evaluation Files
 ==================================
 
 This package contains outputs of participating systems and raw human ratings for the
-[E2E NLG Challenge](http://www.macs.hw.ac.uk/InteractionLab/E2E/).
+[E2E NLG Challenge](http://www.macs.hw.ac.uk/InteractionLab/E2E/). The systems have
+been trained and tested on the [E2E NLG Dataset](https://github.com/tuetschek/e2e-dataset) 
+to generate restaurant recommendation from a flat meaning representation (attribute-value 
+sets).
 
+See the [Challenge website](http://www.macs.hw.ac.uk/InteractionLab/E2E/) and the
+[results overview INLG 2018 paper](http://aclweb.org/anthology/W18-6539) for more
+information.
 
 Contents
 --------
@@ -67,6 +73,28 @@ in the INLG paper):
 | zhang    | Xiamen University                                | seq2seq      |
 | zhaw1    | Zürcher Hochschule für Angewandte Wissenschaften | data-driven  |
 | zhaw2    | Zürcher Hochschule für Angewandte Wissenschaften | data-driven  |
+
+
+Contact & Citing
+================
+
+[Ondřej Dušek](http://github.com/tuetschek/), [Jekaterina Novikova](https://github.com/jeknov) & [Verena Rieser](https://github.com/verenarieser)
+Heriot-Watt University
+
+To cite this data, please refer to [this paper](http://aclweb.org/anthology/W18-6539):
+```
+@InProceedings{W18-6539,
+  author = 	"Du{\v{s}}ek, Ond{\v{r}}ej and Novikova, Jekaterina and Rieser, Verena",
+  title = 	    "Findings of the E2E NLG Challenge",
+  booktitle = 	"Proceedings of the 11th International Conference on Natural Language Generation",
+  year = 	    "2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	    "322--328",
+  location = 	"Tilburg University, The Netherlands",
+  url = 	    "http://aclweb.org/anthology/W18-6539"
+}
+```
+
 
 
 
