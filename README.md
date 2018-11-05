@@ -78,7 +78,7 @@ in the INLG paper):
 Contact & Citing
 ================
 
-[Ondřej Dušek](http://github.com/tuetschek/), [Jekaterina Novikova](https://github.com/jeknov) & [Verena Rieser](https://github.com/verenarieser)
+[Ondřej Dušek](http://github.com/tuetschek/), [Jekaterina Novikova](https://github.com/jeknov) & [Verena Rieser](https://github.com/verenarieser),
 Heriot-Watt University
 
 To cite this data, please refer to [this paper](http://aclweb.org/anthology/W18-6539):
