@@ -8,7 +8,7 @@ to generate restaurant recommendation from a flat meaning representation (attrib
 sets).
 
 See the [Challenge website](http://www.macs.hw.ac.uk/InteractionLab/E2E/) and the
-[results overview INLG 2018 paper](http://aclweb.org/anthology/W18-6539) for more
+[detailed results draft paper on arXiv](https://arxiv.org/abs/1901.07931) for more
 information.
 
 Contents
@@ -81,18 +81,15 @@ Contact & Citing
 [Ondřej Dušek](http://github.com/tuetschek/), [Jekaterina Novikova](https://github.com/jeknov) & [Verena Rieser](https://github.com/verenarieser),
 Heriot-Watt University
 
-To cite this data, please refer to [this paper](http://aclweb.org/anthology/W18-6539):
+To cite this data, please refer to [this paper](http://arxiv.org/abs/1901.07931):
 ```
-@InProceedings{W18-6539,
-  author =      "Du{\v{s}}ek, Ond{\v{r}}ej and Novikova, Jekaterina and Rieser, Verena",
-  title =       "Findings of the E2E NLG Challenge",
-  booktitle =   "Proceedings of the 11th International Conference on Natural Language Generation",
-  year =        "2018",
-  publisher =   "Association for Computational Linguistics",
-  pages =       "322--328",
-  location =    "Tilburg University, The Netherlands",
-  url =         "http://aclweb.org/anthology/W18-6539"
-}
+@article{dusek_evaluating_2019,
+	title = {Evaluating the {State}-of-the-{Art} of {End}-to-{End} {Natural} {Language} {Generation}: {The} {E}2E {NLG} {Challenge}},
+	journal = {arXiv:1901.07931 [cs]},
+	author = {Dušek, Ondřej and Novikova, Jekaterina and Rieser, Verena},
+	month = jan,
+	year = {2019},
+	url = {http://arxiv.org/abs/1901.07931},
 ```
 
 
