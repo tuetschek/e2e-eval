@@ -48,7 +48,7 @@ In the human ratings CSV files, these columns are of interest:
 
 
 These are used in the human rating files (they correspond to the labeling used
-in the [INLG paper](http://aclweb.org/anthology/W18-6539)):
+in the [paper](https://arxiv.org/abs/1901.07931)):
 
 | label    | affiliation                                      | architecture |
 |----------|--------------------------------------------------|--------------|
